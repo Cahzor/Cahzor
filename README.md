@@ -1,7 +1,17 @@
 # Cahzor 💻💖☕
 
 **`Quality Guardian/Bug Buster (Manual Tester )`**
+
+  
+
+I am an avid computer enthusiast and an aspiring manual tester, driven to further my skills in automated testing.
+Within my portfolio, you will discover a collection of both manual and automated tests.
+
+
+
+
 <!--
+
 **Cahzor/Cahzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
