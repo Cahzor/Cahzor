@@ -34,7 +34,7 @@ Within my portfolio, you will discover a collection of both manual and automated
 
 #
 <details>
- <summary><h3>👨‍💻 What made me choose testing</h3></summary>
+ <summary><h3>👨‍💻 What made me choose testing?</h3></summary>
 At the age of 8, I embarked on my first computer adventure, initially using it primarily for entertainment. Over time, I became the neighborhood's go-to "tech guy," helping acquaintances troubleshoot their computer issues. From an early age, I found myself paying attention to the intuitiveness of websites and questioning why certain user-friendly features were missing. Fueled by my passion for technology, I made the decision to switch careers and pursue a path in software testing.
 
 Currently, I am collaborating with friends on a non-commercial Unity game project, where I utilize C#. I believe that this experience will serve as a valuable foundation for my future endeavors in automated testing, which I consider to be a crucial milestone in my professional development.
