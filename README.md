@@ -5,7 +5,7 @@
   
 
 I am an avid computer enthusiast and an aspiring manual tester, driven to further my skills in automated testing.     
-Within my portfolio, you will discover a collection of both manual and automated tests.
+Within my portfolio, you will find a collection of manual tests, as I aspire to expand my skills into automated testing in the near future.
 
 
 
