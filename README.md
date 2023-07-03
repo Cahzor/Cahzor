@@ -14,16 +14,6 @@ Within my portfolio, you will discover a collection of both manual and automated
 
 **Cahzor/Cahzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ---
 
@@ -41,3 +31,10 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="PlasticSCM" width="28px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/4990695?s=280&v=4" />    
 <br />
+
+#
+<details>
+ <summary><h3>👨‍💻 Cahzor's Testing Journey</h3></summary>
+At the age of 8, I embarked on my first computer adventure, initially using it primarily for entertainment. Over time, I became the neighborhood's go-to "tech guy," helping acquaintances troubleshoot their computer issues. From an early age, I found myself paying attention to the intuitiveness of websites and questioning why certain user-friendly features were missing. Fueled by my passion for technology, I made the decision to switch careers and pursue a path in software testing.
+
+Currently, I am collaborating with friends on a non-commercial Unity game project, where I extensively utilize C#. I believe that this experience will serve as a valuable foundation for my future endeavors in automated testing, which I consider to be a crucial milestone in my professional development
