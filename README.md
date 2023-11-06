@@ -25,7 +25,8 @@ Within my portfolio, you will find a collection of manual tests and automated te
 <img align="left" alt="Postman" width="28px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" />   
 <img align="left" alt="Git" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Unity" width="28px" style="padding-right:10px;" src="https://macmagazine.com.br/wp-content/uploads/2013/05/21-logo-unity.png" />
-<img align="left" alt="VS" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
+<img align="left" alt="VS" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="VSC" width="28px" style="padding-right:10px;" src="https://t.ly/mZDtg" />
 <img align="left" alt="HTML" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="PlasticSCM" width="28px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/4990695?s=280&v=4" />    
